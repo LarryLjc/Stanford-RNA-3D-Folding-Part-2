@@ -2,6 +2,8 @@
 
 A lightweight, reproducible inference pipeline for the **Stanford RNA 3D Folding Part 2** Kaggle competition. The task is to predict RNA tertiary structures from nucleotide sequences by submitting 3D coordinates for each residue. This repository converts the original Kaggle notebook into a cleaner Python project for server-side inference.
 
+<img width="560" height="280" alt="ef9a212b0ab30eec492d30e9b43eab6f" src="https://github.com/user-attachments/assets/2b38e52d-06bf-497f-884a-10d6111f76bb" />
+
 **Reported leaderboard result:** TM-score **0.448**.
 
 > This repository contains code only. Kaggle credentials, competition data, Protenix source files, checkpoints, generated logs, and submission files are intentionally excluded.
